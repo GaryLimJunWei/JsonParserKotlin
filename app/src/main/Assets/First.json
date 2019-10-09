@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "gender": "Female",
+    "first_name": "Chang",
+    "last_name": "Pey Pey",
+    "email": "peypey_Json@gmail.com",
+    "ip_address": "227.211.25.18"
+  }, {
+  "id": 2,
+  "gender": "Male",
+  "first_name": "Gary",
+  "last_name": "Lim",
+  "email": "garylim@gmail.com",
+  "ip_address": "214.248.201.11"
+}
+]
